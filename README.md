@@ -13,13 +13,13 @@ A simple and clean **To-Do app** built with React Native using functional compon
 
 ## 📸 Screenshots
 ## 1.HOME SCREEN
-![HOME SCREEN](new shots/home screen.png)
+![HOME SCREEN](new shots/home_screen.png)
 ## 2.ALL TASKS SCREEN
-![ALL TASKS SCREEN](new shots/all tasks screen.png)
+![ALL TASKS SCREEN](new shots/all_tasks_screen.png)
 ## 3.HIGH IMPORTANCE TASK SCREEN
-![HIGH IMPORTANCE TASKS](new shots/high importance task screen.png)
+![HIGH IMPORTANCE TASKS](new shots/high_importance_task_screen.png)
 ## 4.CREATE , EDIT AND DELETE SCREEN
-![CREATE EDIT DELETE SCREEN](new shots/create edit delete screen.png)
+![CREATE EDIT DELETE SCREEN](new shots/create_edit_delete_screen.png)
 
 
 
